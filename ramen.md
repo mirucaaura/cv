@@ -1,5 +1,5 @@
-| 日付 | 曜日 | 杯目 | 店名 | 都道府県 | 食べたもの |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-|<img width=200/>|<img width=100/>|<img width=100/>|<img width=500/>|<img width=300/>|<img width=700/>|
-| 2021/8/8 | 月 | 1 | [まっち棒 溝の口店](https://tabelog.com/kanagawa/A1405/A140505/14006090/) | 神奈川県 | 中華そば |
-| 2021/8/8 | 月 | 2 | [蓮爾 登戸店](https://tabelog.com/kanagawa/A1405/A140506/14003791/) | 神奈川県 | 小ラーメン（麺少なめ，ニンニク）|
+| 日付 | 曜日 | 杯目 | 店名 | 都道府県 | 食べたもの | Twitter |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+|<img width=150/>|<img width=50/>|<img width=50/>|<img width=500/>|<img width=200/>|<img width=700/>|<img width=300/>|
+| 2021/8/8 | 月 | 1 | [まっち棒 溝の口店](https://tabelog.com/kanagawa/A1405/A140505/14006090/) | 神奈川県 | 中華そば | [Link](https://twitter.com/mirucaaura/status/1424618855276564480?s=20) |
+| 2021/8/8 | 月 | 2 | [蓮爾 登戸店](https://tabelog.com/kanagawa/A1405/A140506/14003791/) | 神奈川県 | 小ラーメン（麺少なめ，ニンニク）| [Link](https://twitter.com/mirucaaura/status/1424654977469861893?s=20) |
