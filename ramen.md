@@ -1,6 +1,5 @@
 | 日付 | 曜日 | 杯目 | 店名 | 都道府県 | 食べたもの | Twitter |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-<!-- |<img width=150/>|<img width=50/>|<img width=50/>|<img width=500/>|<img width=200/>|<img width=700/>|<img width=300/>| -->
 | 2021/3/29 | 月 | 1 | [ラーメン二郎 亀戸店](https://tabelog.com/tokyo/A1312/A131202/13008000/) | 東京都 | ラーメン+玉ねぎキムチ | [Link](https://twitter.com/mirucaaura/status/1376404128956522499?s=20) |
 | 2021/4/2 | 金 | 1 | [つけ麺屋 ごんろく 両国店](https://tabelog.com/tokyo/A1312/A131201/13003718/) | 東京都 | つけ麺 | [Link](https://twitter.com/mirucaaura/status/1377796308786810881?s=20) |
 | 2021/4/3 | 土 | 1 | [麺処 ほん田 秋葉原本店](https://tabelog.com/tokyo/A1310/A131001/13246285/) | 東京都 | 特製醤油 | [Link](https://twitter.com/mirucaaura/status/1378997341856821250?s=20) |
