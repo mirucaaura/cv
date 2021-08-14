@@ -25,3 +25,4 @@
 | 2021/8/7 | 土 | 3 | [龍上海 横浜店](https://tabelog.com/kanagawa/A1401/A140206/14003644/) | 神奈川県 | ミニ赤湯からみそラーメン | [Link](https://twitter.com/mirucaaura/status/1423957346552664065?s=20) |
 | 2021/8/9 | 月 | 1 | [まっち棒 溝の口店](https://tabelog.com/kanagawa/A1405/A140505/14006090/) | 神奈川県 | 中華そば | [Link](https://twitter.com/mirucaaura/status/1424618855276564480?s=20) |
 | 2021/8/9 | 月 | 2 | [蓮爾 登戸店](https://tabelog.com/kanagawa/A1405/A140506/14003791/) | 神奈川県 | 小ラーメン（麺少なめ，ニンニク）| [Link](https://twitter.com/mirucaaura/status/1424654977469861893?s=20) |
+| 2021/8/14 | 土 | 1 | [ラーメン二郎 湘南藤沢店](https://tabelog.com/kanagawa/A1404/A140404/14035072/) | 神奈川県 | 小つけ麺）ヤサイニンニク）| [Link](https://twitter.com/mirucaaura/status/1426380355024539649?s=20) |
