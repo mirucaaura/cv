@@ -28,3 +28,5 @@
 | 2021/8/14 | 土 | 1 | [ラーメン二郎 湘南藤沢店](https://tabelog.com/kanagawa/A1404/A140404/14035072/) | 神奈川県 | 小つけ麺（ヤサイニンニク）| [Link](https://twitter.com/mirucaaura/status/1426380355024539649?s=20) |
 | 2021/8/15 | 日 | 1 | [炭火焼濃厚中華そば 海富道](https://tabelog.com/tokyo/A1310/A131002/13258496/) | 東京都 | 炭火焼濃厚中華そば 鮎（限定）定食 | [Link](https://twitter.com/mirucaaura/status/1426739207171547137?s=20) |
 | 2021/8/18 | 水 | 1 | [ラーメン二郎 三田本店](https://tabelog.com/tokyo/A1314/A131402/13006051/) | 東京都 | ぶた入りラーメン | [Link](https://twitter.com/mirucaaura/status/1427892425217871874?s=20) |
+| 2021/8/19 | 木 | 1 | [らーめん紬麦](https://tabelog.com/tokyo/A1310/A131001/13120606/) | 東京都 | つむぎラーメン | [Link](https://twitter.com/mirucaaura/status/1428204649744453639?s=20) |
+| 2021/8/18 | 水 | 1 | [ラーメン ゼンゼン](https://tabelog.com/kanagawa/A1405/A140505/14073182/) | 神奈川 | ラーメン小（ニンニクアブラ） | [Link](https://twitter.com/mirucaaura/status/1428652996980707328?s=20) |
